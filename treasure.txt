@@ -2,3 +2,7 @@
   Diamonds
   Crown Jewels
   Parrot
+  
+Gold doubloons
+Goldfish
+Gold nuggets
